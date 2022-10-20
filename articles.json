@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "title": "article 1",
+    "body": "article 1 body",
+    "autor": "admin",
+    "date": "2019-01-01",
+    "_links": {
+      "category":{
+        "href": "http://localhost:3000/categories/1"
+      },
+      "_self": "http://localhost:3000/articles/2"
+    }
+  },
+  {
+    "id": 2,
+    "title": "article 2",
+    "body": "article 2 body",
+    "autor": "admin",
+    "date": "2019-01-01",
+    "_links": {
+      "category":{
+        "href": "http://localhost:3000/categories/5"
+      },
+      "_self": "http://localhost:3000/articles/2"
+    }
+  },
+  {
+    "id": 3,
+    "title": "article 3",
+    "body": "article 3 body",
+    "autor": "admin",
+    "date": "2019-01-01",
+    "_links": {
+      "category":{
+        "href": "http://localhost:3000/categories/8"
+      },
+      "_self": "http://localhost:3000/articles/3"
+    }
+  },
+  {
+    "id": 4,
+    "title": "article 4",
+    "body": "article 4 body",
+    "autor": "admin",
+    "date": "2019-01-01",
+    "_links": {
+      "category":{
+        "href": "http://localhost:3000/categories/2"
+      },
+      "_self": "http://localhost:3000/articles/4"
+    }
+  },
+  {
+    "id": 5,
+    "title": "article 5",
+    "body": "article 5 body",
+    "autor": "admin",
+    "date": "2019-01-01",
+    "_links": {
+      "category":{
+        "href": "http://localhost:3000/categories/5"
+      },
+      "_self": "http://localhost:3000/articles/5"
+    }
+  },
+  {
+    "id": 6,
+    "title": "article 6",
+    "body": "article 6 body",
+    "autor": "admin",
+    "date": "2019-01-01",
+    "_links": {
+      "category":{
+        "href": "http://localhost:3000/categories/9"
+      },
+      "_self": "http://localhost:3000/articles/6"
+    }
+  },
+  {
+    "id": 7,
+    "title": "article 7",
+    "body": "article 7 body",
+    "autor": "admin",
+    "date": "2019-01-01",
+    "_links": {
+      "category":{
+        "href": "http://localhost:3000/categories/10"
+      },
+      "_self": "http://localhost:3000/articles/7"
+    }
+  },
+  {
+    "id": 8,
+    "title": "article 8",
+    "body": "article 8 body",
+    "autor": "admin",
+    "date": "2019-01-01",
+    "_links": {
+      "category":{
+        "href": "http://localhost:3000/categories/1"
+      },
+      "_self": "http://localhost:3000/articles/8"
+    }
+  }
+]
