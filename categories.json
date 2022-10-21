@@ -4,7 +4,7 @@
     "name": "Actu",
     "description": "",
     "_links": {
-      "_self": "http://localhost:3000/categories/1"
+      "_self": "http://localhost:3001/categories/1"
     }
   },
   {
@@ -12,7 +12,7 @@
     "name": "Sport",
     "description": "",
     "_links": {
-      "_self": "http://localhost:3000/categories/2"
+      "_self": "http://localhost:3001/categories/2"
     }
   },
   {
@@ -20,7 +20,7 @@
     "name": "Politique",
     "description": "",
     "_links": {
-      "_self": "http://localhost:3000/categories/3"
+      "_self": "http://localhost:3001/categories/3"
     }
   },
   {
@@ -28,7 +28,7 @@
     "name": "Economie",
     "description": "",
     "_links": {
-      "_self": "http://localhost:3000/categories/4"
+      "_self": "http://localhost:3001/categories/4"
     }
   },
   {
@@ -36,7 +36,7 @@
     "name": "Culture",
     "description": "",
     "_links": {
-      "_self": "http://localhost:3000/categories/5"
+      "_self": "http://localhost:3001/categories/5"
     }
   },
   {
@@ -44,7 +44,7 @@
     "name": "Société",
     "description": "",
     "_links": {
-      "_self": "http://localhost:3000/categories/6"
+      "_self": "http://localhost:3001/categories/6"
     }
   },
   {
@@ -52,7 +52,7 @@
     "name": "International",
     "description": "",
     "_links": {
-      "_self": "http://localhost:3000/categories/7"
+      "_self": "http://localhost:3001/categories/7"
     }
   },
   {
@@ -60,7 +60,7 @@
     "name": "Sciences",
     "description": "",
     "_links": {
-      "_self": "http://localhost:3000/categories/8"
+      "_self": "http://localhost:3001/categories/8"
     }
   },
   {
@@ -68,7 +68,7 @@
     "name": "High-Tech",
     "description": "",
     "_links": {
-      "_self": "http://localhost:3000/categories/9"
+      "_self": "http://localhost:3001/categories/9"
     }
   },
   {
@@ -76,7 +76,7 @@
     "name": "Environnement",
     "description": "",
     "_links": {
-      "_self": "http://localhost:3000/categories/10"
+      "_self": "http://localhost:3001/categories/10"
     }
   },
   {
@@ -84,7 +84,7 @@
     "name": "Faits Divers",
     "description": "",
     "_links": {
-      "_self": "http://localhost:3000/categories/11"
+      "_self": "http://localhost:3001/categories/11"
     }
   },
   {
@@ -92,7 +92,7 @@
     "name": "Insolite",
     "description": "",
     "_links": {
-      "_self": "http://localhost:3000/categories/12"
+      "_self": "http://localhost:3001/categories/12"
     }
   }
 ]
